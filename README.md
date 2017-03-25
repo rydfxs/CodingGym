@@ -1,2 +1,0 @@
-# CodingGym
-Coding exercise
